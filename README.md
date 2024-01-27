@@ -2,7 +2,7 @@
 - 👀 I’m interested in research, and soccer.
 - 🌱 I’m currently learning APM and C++.
 - 💞️ I’m looking to collaborate on development of multiphysics software.
-- 📫 reach me here:sayanbiswas04062000@gmail.com
+- 📫 reach me here:sayanbiswas04062000@gmail.com, biswas49@purdue.edu
 
 <!---
 biswas49/biswas49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
